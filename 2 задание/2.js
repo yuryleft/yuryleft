@@ -1,4 +1,4 @@
-
+console.log('для вызова функции ввести swap(a,k)')
 var a =[1,2,3,4,5];
 var k = 3;
 function swap(a,k)
