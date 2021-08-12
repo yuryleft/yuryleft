@@ -3,7 +3,7 @@
 
  el:".wrapper",
  data:{
-isactive: false,
+isactive:true,
 active1:false,
 active2:false,
 active3:false,
